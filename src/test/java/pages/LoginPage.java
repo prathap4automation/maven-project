@@ -7,8 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage {
-	public WebDriver driver=null;
-	public WebDriverWait wait=null;
+	WebDriver driver;
 	
 	//Locators of lauch page
 	@FindBy(name="mobileNo")
@@ -38,13 +37,18 @@ public class LoginPage {
 	}
 	
 	//operational methods
+	public void clear(WebElement e)
+	{
+		e.clear();
+	}
+	
 	public void fillMbno(String x)
 	{	mbno.sendKeys(x);	}
 	
 	public void fillPwd(String x)
 	{	pwd.sendKeys(x);	}
 	
-	public void clickLogin(String x)
+	public void clickLogin()
 	{	login.click();	}
 	
 	

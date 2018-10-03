@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class DashboradPage {
-	public WebDriver driver;
+	WebDriver driver;
 	
 	//locators
 	@FindBy(xpath="(//span[text()='Current Balance'])[2]")
@@ -23,6 +23,6 @@ public class DashboradPage {
 	}
 	
 	//operational methods
-	public void clickLogout(String x)
+	public void clickLogout()
 	{	logout.click();	}
 }
