@@ -38,9 +38,7 @@ public class LoginPage {
 	
 	//operational methods
 	public void clear(WebElement e)
-	{
-		e.clear();
-	}
+	{	e.clear();	}
 	
 	public void fillMbno(String x)
 	{	mbno.sendKeys(x);	}
