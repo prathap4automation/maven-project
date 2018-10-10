@@ -14,8 +14,8 @@ Then validate output for criteria "<z>"
 And close site
 Examples: 
 |		x			 |		y		 |		z				|
-|9885675068|test12345|all_valid		|
-|					 |test12345|mbno_blank	|
+|9885675068|test@12345|all_valid		|
+|					 |test@12345|mbno_blank	|
 |9885675068|				 |pwd_blank		|
-|9848012345|test12345|mbno_invalid|
+|9848012345|test@12345|mbno_invalid|
 |9885675068|test54321|pwd_invalid	|
