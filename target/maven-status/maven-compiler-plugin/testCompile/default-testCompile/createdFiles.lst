@@ -1,0 +1,5 @@
+pages\DashboradPage.class
+pages\LoginPage.class
+tests\Runner.class
+tests\GlueCode.class
+tests\Rerun.class
