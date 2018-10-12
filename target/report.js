@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 456484,
+  "duration": 603290,
   "status": "passed"
 });
 formatter.scenario({
@@ -49,7 +49,7 @@ formatter.match({
   "location": "GlueCode.method2(String)"
 });
 formatter.result({
-  "duration": 7227792047,
+  "duration": 6866131143,
   "status": "passed"
 });
 formatter.match({
@@ -63,14 +63,14 @@ formatter.match({
 });
 formatter.write("Title Test passed");
 formatter.result({
-  "duration": 40404830,
+  "duration": 54257748,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.method4()"
 });
 formatter.result({
-  "duration": 61628420,
+  "duration": 59164835,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -175,7 +175,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 225787,
+  "duration": 253007,
   "status": "passed"
 });
 formatter.scenario({
@@ -235,7 +235,7 @@ formatter.match({
   "location": "GlueCode.method2(String)"
 });
 formatter.result({
-  "duration": 5472013937,
+  "duration": 5498619840,
   "status": "passed"
 });
 formatter.match({
@@ -248,7 +248,7 @@ formatter.match({
   "location": "GlueCode.fillMbno(String)"
 });
 formatter.result({
-  "duration": 203015202,
+  "duration": 197461987,
   "status": "passed"
 });
 formatter.match({
@@ -261,14 +261,14 @@ formatter.match({
   "location": "GlueCode.fillPassword(String)"
 });
 formatter.result({
-  "duration": 195767241,
+  "duration": 190259986,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.clickLogin()"
 });
 formatter.result({
-  "duration": 149706566,
+  "duration": 138500182,
   "status": "passed"
 });
 formatter.match({
@@ -281,18 +281,18 @@ formatter.match({
   "location": "GlueCode.validateCriteria(String)"
 });
 formatter.result({
-  "duration": 2156544004,
+  "duration": 363876836,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.method4()"
 });
 formatter.result({
-  "duration": 2315934895,
+  "duration": 60853780,
   "status": "passed"
 });
 formatter.before({
-  "duration": 559115,
+  "duration": 283350,
   "status": "passed"
 });
 formatter.scenario({
@@ -352,7 +352,7 @@ formatter.match({
   "location": "GlueCode.method2(String)"
 });
 formatter.result({
-  "duration": 5582801141,
+  "duration": 14529319817,
   "status": "passed"
 });
 formatter.match({
@@ -365,7 +365,7 @@ formatter.match({
   "location": "GlueCode.fillMbno(String)"
 });
 formatter.result({
-  "duration": 151595417,
+  "duration": 151972473,
   "status": "passed"
 });
 formatter.match({
@@ -378,14 +378,14 @@ formatter.match({
   "location": "GlueCode.fillPassword(String)"
 });
 formatter.result({
-  "duration": 218481208,
+  "duration": 198277678,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.clickLogin()"
 });
 formatter.result({
-  "duration": 136914313,
+  "duration": 145270687,
   "status": "passed"
 });
 formatter.match({
@@ -399,18 +399,18 @@ formatter.match({
 });
 formatter.write("Test passed for blank mobile number");
 formatter.result({
-  "duration": 57213960,
+  "duration": 57617343,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.method4()"
 });
 formatter.result({
-  "duration": 2284194331,
+  "duration": 73482270,
   "status": "passed"
 });
 formatter.before({
-  "duration": 475225,
+  "duration": 184735,
   "status": "passed"
 });
 formatter.scenario({
@@ -470,7 +470,7 @@ formatter.match({
   "location": "GlueCode.method2(String)"
 });
 formatter.result({
-  "duration": 7429415932,
+  "duration": 5070346232,
   "status": "passed"
 });
 formatter.match({
@@ -483,7 +483,7 @@ formatter.match({
   "location": "GlueCode.fillMbno(String)"
 });
 formatter.result({
-  "duration": 233630843,
+  "duration": 212431795,
   "status": "passed"
 });
 formatter.match({
@@ -496,14 +496,14 @@ formatter.match({
   "location": "GlueCode.fillPassword(String)"
 });
 formatter.result({
-  "duration": 144865071,
+  "duration": 147162215,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.clickLogin()"
 });
 formatter.result({
-  "duration": 133476184,
+  "duration": 143095807,
   "status": "passed"
 });
 formatter.match({
@@ -517,18 +517,18 @@ formatter.match({
 });
 formatter.write("Test passed for blank password");
 formatter.result({
-  "duration": 54642390,
+  "duration": 58497735,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.method4()"
 });
 formatter.result({
-  "duration": 50685752,
+  "duration": 145055162,
   "status": "passed"
 });
 formatter.before({
-  "duration": 215078,
+  "duration": 330650,
   "status": "passed"
 });
 formatter.scenario({
@@ -588,7 +588,7 @@ formatter.match({
   "location": "GlueCode.method2(String)"
 });
 formatter.result({
-  "duration": 5280571912,
+  "duration": 7664044079,
   "status": "passed"
 });
 formatter.match({
@@ -601,7 +601,7 @@ formatter.match({
   "location": "GlueCode.fillMbno(String)"
 });
 formatter.result({
-  "duration": 194005115,
+  "duration": 180847408,
   "status": "passed"
 });
 formatter.match({
@@ -614,14 +614,14 @@ formatter.match({
   "location": "GlueCode.fillPassword(String)"
 });
 formatter.result({
-  "duration": 185230633,
+  "duration": 190489790,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.clickLogin()"
 });
 formatter.result({
-  "duration": 138745156,
+  "duration": 138512229,
   "status": "passed"
 });
 formatter.match({
@@ -633,19 +633,20 @@ formatter.match({
   ],
   "location": "GlueCode.validateCriteria(String)"
 });
+formatter.write("Test passed for invalid mobile number");
 formatter.result({
-  "duration": 325136410,
+  "duration": 66042880,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.method4()"
 });
 formatter.result({
-  "duration": 2034562909,
+  "duration": 51044959,
   "status": "passed"
 });
 formatter.before({
-  "duration": 466301,
+  "duration": 308784,
   "status": "passed"
 });
 formatter.scenario({
@@ -705,7 +706,7 @@ formatter.match({
   "location": "GlueCode.method2(String)"
 });
 formatter.result({
-  "duration": 7419819959,
+  "duration": 7507702660,
   "status": "passed"
 });
 formatter.match({
@@ -718,7 +719,7 @@ formatter.match({
   "location": "GlueCode.fillMbno(String)"
 });
 formatter.result({
-  "duration": 192064056,
+  "duration": 184671965,
   "status": "passed"
 });
 formatter.match({
@@ -731,14 +732,14 @@ formatter.match({
   "location": "GlueCode.fillPassword(String)"
 });
 formatter.result({
-  "duration": 181276673,
+  "duration": 178110738,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.clickLogin()"
 });
 formatter.result({
-  "duration": 146227383,
+  "duration": 131597595,
   "status": "passed"
 });
 formatter.match({
@@ -751,14 +752,14 @@ formatter.match({
   "location": "GlueCode.validateCriteria(String)"
 });
 formatter.result({
-  "duration": 375284912,
+  "duration": 376830174,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.method4()"
 });
 formatter.result({
-  "duration": 2287898855,
+  "duration": 2043032176,
   "status": "passed"
 });
 formatter.uri("src/test/resources/features/feature2.feature");
@@ -770,7 +771,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 485935,
+  "duration": 298075,
   "status": "passed"
 });
 formatter.scenario({
@@ -838,21 +839,21 @@ formatter.match({
   "location": "GlueCode.method2(String)"
 });
 formatter.result({
-  "duration": 5873139483,
+  "duration": 5612512293,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.validLogin(DataTable)"
 });
 formatter.result({
-  "duration": 454600623,
+  "duration": 484573261,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.logout()"
 });
 formatter.result({
-  "duration": 20525405124,
+  "duration": 20631079979,
   "status": "passed"
 });
 formatter.match({
@@ -860,14 +861,14 @@ formatter.match({
 });
 formatter.write("Logout test passed");
 formatter.result({
-  "duration": 34488836,
+  "duration": 59156357,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueCode.method4()"
 });
 formatter.result({
-  "duration": 2035529423,
+  "duration": 54076582,
   "status": "passed"
 });
 });
