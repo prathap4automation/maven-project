@@ -10,6 +10,6 @@ import cucumber.api.junit.Cucumber;
 		features= {"@target\\ftest.txt"},
 		plugin= {"pretty","html:target\\ftest","rerun:target\\ftest.txt"},
 		glue="",
-		monochrome=true
+		monochrome=true //To display output in console
 		)
 public class Rerun {}
